@@ -19,7 +19,7 @@ public class AdsInfo {
 
 
     public static String getBannerId(Context context) {
-        String id = "ca-app-pub-3940256099942544/6300978111";
+        String id = "ca-app-pub-4279390018890538/3486967139";
         AdsModel.Adsdetail adsdetail = Constant.getAdsModel(context);
 
         if (adsdetail != null) {
@@ -35,7 +35,7 @@ public class AdsInfo {
 
 
     public static String getInterstitialId(Context context) {
-        String id = "ca-app-pub-3940256099942544/1033173712";
+        String id = "ca-app-pub-4279390018890538/7900854862";
         AdsModel.Adsdetail adsdetail = Constant.getAdsModel(context);
 
         if (adsdetail != null) {
@@ -111,7 +111,7 @@ public class AdsInfo {
 
     public static String getRewardId(Context context) {
 //        String id = "ca-app-pub-3940256099942544/5354046379";
-        String id = "ca-app-pub-3940256099942544/5224354917";
+        String id = "ca-app-pub-4279390018890538/9505758182";
 
         AdsModel.Adsdetail adsdetail = Constant.getAdsModel(context);
 
